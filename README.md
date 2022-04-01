@@ -8,8 +8,8 @@ Hi my name is punga107. Boca juniors fan. never descend.
 
 <div align="center">
   <a href="https://github.com/j0k3rD0ck3r">
-  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=j0k3rD0ck3r&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0k3rD0ck3r&layout=compact&langs_count=7&theme=dark"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=punga107&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=punga107&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ![image](https://user-images.githubusercontent.com/101759472/161339684-f4262318-f7dc-4aaf-aefa-9f56ab9f683f.png)
